@@ -1,0 +1,13 @@
+{
+  "TT_IoT": {
+    "AIR": "OFF",
+    "FRIDGE": "OFF",
+    "LIGHT": "OFF",
+    "MUSIC": "OFF",
+    "RADIO": "OFF",
+    "TIVI": "OFF",
+    "value_da": "38",
+    "value_gas": "36",
+    "value_nd": "82"
+  }
+}
